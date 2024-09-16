@@ -1,6 +1,6 @@
 # Machine-Learning-Notes
 ## Introduction 
-- [Introduction]()
+- [Introduction](https://github.com/Bibek417/Machine-Learning-Notes/blob/main/Introduction.md)
 - 3 type of machine learning are there 
 1. Regression
 2. Classification
