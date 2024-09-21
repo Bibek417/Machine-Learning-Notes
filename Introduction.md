@@ -1,15 +1,22 @@
 ## Introduction
 
-3 type of machine learning are there
-Regression
-Classification
-Clustering
-Regression - Here the output variable or the veriable which we want to predict is a contineous variable. examples - the score of a student on a subject, House Price Prediction.
+There are 3 types of machine learning:
 
-Classification - here The output variable or the veriable which we want to predict is a categorical veriable, we also called thatpredicted veriable as lebel. Example - classifying emails as spam or ham, True/false, 0/1 etc.
+1. **Regression**
+2. **Classification**
+3. **Clustering**
 
-Clustering - Here we dont have the lebel or we can say our terget veriable is not there, in clustering as name suggest we make groups/clusters based on similarities. example - customer segmentation.
+### 1. Regression
+In regression, the output variable (or the variable we want to predict) is continuous.  
+Examples include predicting a student's subject score and house price prediction.
 
-Difference Between Clustering and Classification
+### 2. Classification
+In classification, the output variable (or the variable we want to predict) is categorical. This predicted variable is also known as a "label."  
+Examples include: classifying emails as spam or not spam and predicting True/False, or 0/1 outcomes.
 
-in both we talk about categorical variable but the main difference is in classification we have lebel but dont have lebel in clustering.
+### 3. Clustering
+In clustering, we don't have labels, meaning there is no target variable. As the name suggests, we create groups or clusters based on similarities.  
+Example: customer segmentation.
+
+### Difference Between Clustering and Classification
+In both classification and clustering, we deal with categorical variables. The key difference is that in classification, we have a label, while in clustering, we do not.
