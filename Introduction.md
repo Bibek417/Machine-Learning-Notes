@@ -3,7 +3,6 @@
 There are 3 types of machine learning:
 
 
-
 ### 1. Regression
 In regression, the output variable (or the variable we want to predict) is continuous.  
 Examples include predicting a student's subject score and house price prediction.
